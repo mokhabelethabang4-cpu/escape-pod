@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.enc
+*.decrypted
+*.key
+protected_key.bin
+archive/
+imports/
+.env
+.venv/
+venv/
+*.bin
+*.backup
+*-backup
